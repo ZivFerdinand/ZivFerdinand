@@ -1,5 +1,5 @@
 # ZIVEN FERDINAND
-## Student in PPTI BCA Scholarship Associated to BINUS University
+## Student in PPTI BCA Scholarship, associated to BINUS University
 # Statistics
 ![ZivFerdinand's Github Stats](https://github-readme-stats.vercel.app/api?username=ZivFerdinand&show_icons=true&theme=dracula&hide=stars,issues)
 
