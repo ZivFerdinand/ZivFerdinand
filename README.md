@@ -1,16 +1,13 @@
-### Hi there 👋
+# ZIVEN FERDINAND
+## Student in PPTI BCA Scholarship
 
-<!--
-**ZivFerdinand/ZivFerdinand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some stats
+![ZivFerdinand's Github Stats](https://github-readme-stats.vercel.app/api?username=ZivFerdinand&show_icons=true&theme=dracula&hide=stars,issues,contributed)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZivFerdinand&theme=dracula)](https://github.com/ZivFerdinand/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub last commit](https://img.shields.io/github/last-commit/ZivFerdinand/ZivFerdinand)
+
+## Keep in touch
+[LinkedIn](https://www.linkedin.com/in/ZivFerdinand) • [Instagram](https://www.instagram.com/_____.zv/)
